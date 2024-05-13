@@ -10,4 +10,10 @@
 2. potato
 3. tomato
 
+Make lines with text
 
+**Breakfast**
+
+~~Lunch~~
+
+*Dinner*
