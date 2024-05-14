@@ -1,19 +1,11 @@
 # Control of version
-*Make a list of fruits*
-* melon
-* grape
-* mango
 
-*Make a numeral list of vegetables*
-
-1. cucumber
-2. potato
-3. tomato
-
-Make lines with text
-
-**Breakfast**
-
-~~Lunch~~
-
-*Dinner*
+## Команды для GIT
+Добавление репозитария
+```sh
+git init
+```
+Добавление изменения
+```sh
+git add
+```
