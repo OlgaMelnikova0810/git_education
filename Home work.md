@@ -29,4 +29,3 @@ git checkout 732e0
 ```sh
 git checkout master
 ```
-
