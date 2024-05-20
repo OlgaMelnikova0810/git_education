@@ -54,3 +54,7 @@ git log --oneline
 ```sh
 git diff
 ```
+команда для удаления ненужной ветки
+```sh
+git branch -d branch_name
+```
