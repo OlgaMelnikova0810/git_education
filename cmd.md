@@ -26,3 +26,27 @@ del <filename>
 ```sh
 rm <filename>
 ```
+Просмотр имеющихся веток
+```sh
+git branch
+```
+Добавление новой ветки
+```sh
+git branch new_name_branch
+```
+Переход к первоначальной ветке
+```sh
+git checkout master
+```
+слияние ветки c master
+```sh
+git merge new_name_branch
+```
+отображение всех добавленных изменений в файле
+```sh
+git log
+```
+Отображение всех добавленных изменений в файл в укороченном виде
+```sh
+git log --oneline
+```
