@@ -32,7 +32,7 @@ git branch
 ```
 Добавление новой ветки
 ```sh
-git branch new_name_branch
+git branch name_branch
 ```
 Переход к первоначальной ветке
 ```sh
