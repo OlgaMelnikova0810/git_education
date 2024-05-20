@@ -61,3 +61,7 @@ git diff
 ```sh
 git branch -d branch_name
 ```
+Вызвать меню со всеми командами
+```sh
+git help
+```
